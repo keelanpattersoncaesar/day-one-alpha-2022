@@ -7,9 +7,9 @@
 - $ `git push origin <branch-name>`
 
 ### **Notes here**
-Git = Version control (push/pull updates)
-Git commit -M "insert meaningful message here"
-Git push (transfer local to repo github)
+Git = Version control (push/pull updates) <br>
+Git commit -M "insert meaningful message here" <br>
+Git push (transfer local to repo github) <br>
 
 This is a test! <br>
 Hello! :)
